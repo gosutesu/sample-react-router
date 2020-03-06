@@ -9,8 +9,8 @@ const Router : React.FC= ()=> {
     <BrowserRouter>
       <Switch>
         <Route exact={true} path="/" component={Top} />
-        <Route path="/" component={Page1} />
-        <Route path="/" component={Page2} />
+        <Route path="/page1" component={Page1} />
+        <Route path="/page2" component={Page2} />
       </Switch>
     </BrowserRouter>
   )
