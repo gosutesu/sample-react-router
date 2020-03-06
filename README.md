@@ -9,5 +9,5 @@ Node.jsをインストールしてください。
 `npm start`  
 
 ## URL直打ち遷移
-http://localohost:3000/page1
+http://localohost:3000/page1  
 http://localohost:3000/page2
